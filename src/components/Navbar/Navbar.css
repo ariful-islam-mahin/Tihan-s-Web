@@ -1,9 +1,9 @@
-ul {
+/* ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: white;
   }
   
   li {
@@ -12,12 +12,16 @@ ul {
   
   li a {
     display: block;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   .float {
     float: right
-  }
+  } */
+
+.nav-img {
+  background: url("https://photos.smugmug.com/photos/i-pv4LG9v/0/f4193528/400x35/i-pv4LG9v-400x35.png") center center / contain no-repeat
+}
   

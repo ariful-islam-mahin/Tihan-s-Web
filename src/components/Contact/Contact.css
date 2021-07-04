@@ -1,0 +1,57 @@
+.max-width {
+    max-width: 625px;
+}
+
+.shadow-box {
+    box-shadow: 0 0 12px 4px rgb(0 0 0 / 12%);
+}
+
+.form-box {
+   
+}
+
+.submit-btn {
+    width: 100%;
+    height: 48px;
+    font-size: 12px;
+    box-sizing: border-box;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 24px;
+    margin: 0;
+    border-radius: 0;
+    border-style: solid;
+    border-width: 1px;
+    border-color: transparent;
+    font-weight: 500;
+    line-height: 14px;
+    letter-spacing: 1px;
+    text-align: center;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: #FFFFFF;
+    background-color: #d07b2f;
+}
+
+.submit-btn:hover {
+    background-color: #a7662c;
+    color: #FFFFFF;
+}
+
+.form-input {
+    color: #202020;
+    background-color: #F7F7F7;
+    border-color: #E6E6E6;
+    border-radius: 0px !important;
+}
+
+.contact-header-text {
+    font-weight: bold !important;
+}
+
+@media only screen and (max-width: 575px) {
+    .contact-img {
+      display: none !important;
+    }
+  }

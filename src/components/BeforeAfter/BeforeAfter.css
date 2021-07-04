@@ -1,0 +1,9 @@
+.ba-max-width {
+    max-width: 780px;
+}
+
+.ba-span {
+    font-size: 14px; 
+    font-style: italic; 
+    font-weight: bold
+}
